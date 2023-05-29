@@ -1,0 +1,32 @@
+#screen settings
+SCREEN_WIDTH = 500
+SCREEN_HEIGHT = 700
+FPS = 60
+
+#player settings
+PLAYER_WIDTH = 50
+PLAYER_HEIGHT = 50
+PLAYER_SPEED = 8
+
+#bullet settings
+BULLET_SPEED = -15
+SHOOT_DELAY = 200
+
+#enemy settings
+ENEMY_WIDTH = 50
+ENEMY_HEIGHT = 50
+SPAWN_COOLDOWN = 2
+SPAWN_RATE = 20
+
+#color
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+
+#explosion
+EXPLOSION_OFFSET = 40
+EXPLOSION_SIZE = 70
+EXPLOSION_SPEED = 0.25
